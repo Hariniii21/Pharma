@@ -152,7 +152,6 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-
 ## OUTPUT:
 ![Screenshot 2024-05-13 112236](https://github.com/Hariniii21/Pharma/assets/147140423/eaa3bcba-0c79-46af-85a9-475262363789)
 
